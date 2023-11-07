@@ -18,6 +18,7 @@
 #calculator{
     background-color: #3A4457;
     padding: 20px;
+    border-radius: 10px;
 }
 
 #calculator form input{
